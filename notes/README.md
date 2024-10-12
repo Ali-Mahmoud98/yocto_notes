@@ -1,0 +1,1 @@
+# this repo contains note from reading Embedded Linux Systems with the Yocto Project by Rudolf J. Streif
